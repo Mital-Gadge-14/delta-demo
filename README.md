@@ -5,4 +5,4 @@ this is a demo for git &amp; Github class.
 Mital Gadge
 
 # Students
-Delta Students
+Delta Students,
